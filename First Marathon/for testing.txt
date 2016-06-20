@@ -1,0 +1,1 @@
+java -jar tester.jar -exec "python /Users/adarsh/Desktop/ColorCapture.py" -seed 4
