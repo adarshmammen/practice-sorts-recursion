@@ -1,6 +1,6 @@
 #This problem was used for: 
 #       TopCoder Collegiate Challenge Semifinal Round 4 - Division I, Level One
-
+#TCCC 03 Semifinals Room 4 – Circuits – Div 1 275
 
 
 '''test = ["1 2 3 4 5","2 3 4 5","3 4 5","4 5","5",""]
